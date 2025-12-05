@@ -1,0 +1,2 @@
+Name: gradio
+Version: 6.0.2
